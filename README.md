@@ -1,1 +1,1 @@
-# hasamex-ai-case-study
+# Hasamex-ai-case-study
