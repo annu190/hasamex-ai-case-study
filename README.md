@@ -270,7 +270,6 @@ hasamex-ai-case-study/
 │   ├── guide_answers.json
 │   └── themes.json
 │
-├── tests/
 │
 ├── app.py
 ├── requirements.txt
